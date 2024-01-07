@@ -14,7 +14,7 @@ public class CalculatorServlets extends HttpServlet {
 
 	protected void doPost(HttpServletRequest request, HttpServletResponse response)
 			throws ServletException, IOException {
-
+int i =40;
 		PrintWriter pw = response.getWriter();
 		pw.println("I am from do Post method ......!");
 
