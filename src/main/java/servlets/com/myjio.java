@@ -1,4 +1,8 @@
 
+pubic void m2(){
+String s= "shadrak";
+
+}
 
 @WebServlet("/Cal")
 public class CalculatorServlets extends HttpServlet {
